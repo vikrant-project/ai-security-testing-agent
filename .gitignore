@@ -1,0 +1,14 @@
+runs/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.keystore
+*.jks
+*.pem
+*.key
+*.p12
+*.apk
+*.apks
+*.zip
+.local/

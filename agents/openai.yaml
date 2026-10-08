@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testing Agent"
+  short_description: "Debug APK, ADB, staging website and API assessments"
+  default_prompt: "Use $testing-agent to execute GOAL.md with targets.json, verify debug APKs, and deliver reproducible findings and coverage."

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+  <title id="title">Ten security-testing workstreams grouped into four review areas</title>
+  <desc id="desc">Preflight contains one workstream. Mobile and device testing contains six. Web and API testing contains two. Server and reporting contains one. Counts describe the plan, not completed tests or measured effectiveness.</desc>
+  <rect width="1200" height="590" rx="24" fill="#0b1424"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="68" fill="#f1f5f9" font-size="30" font-weight="700">One plan. Ten workstreams.</text>
+    <text x="56" y="105" fill="#b6c6dc" font-size="17">The workflow covers four connected review areas.</text>
+    <g font-size="20" font-weight="700" fill="#e2e8f0">
+      <text x="56" y="174">Scope &amp; preflight</text><text x="56" y="260">Mobile &amp; device</text>
+      <text x="56" y="346">Web &amp; API</text><text x="56" y="432">Server &amp; reporting</text>
+    </g>
+    <g fill="#182b45">
+      <rect x="350" y="149" width="700" height="34" rx="8"/>
+      <rect x="350" y="235" width="700" height="34" rx="8"/>
+      <rect x="350" y="321" width="700" height="34" rx="8"/>
+      <rect x="350" y="407" width="700" height="34" rx="8"/>
+    </g>
+    <rect x="350" y="149" width="116.667" height="34" rx="8" fill="#38bdf8"/>
+    <rect x="350" y="235" width="700" height="34" rx="8" fill="#2dd4bf"/>
+    <rect x="350" y="321" width="233.333" height="34" rx="8" fill="#a78bfa"/>
+    <rect x="350" y="407" width="116.667" height="34" rx="8" fill="#fbbf24"/>
+    <g fill="#f1f5f9" font-size="22" font-weight="700"><text x="1080" y="174">1</text><text x="1080" y="260">6</text><text x="1080" y="346">2</text><text x="1080" y="432">1</text></g>
+    <g fill="#94a9c4" font-size="15"><text x="350" y="203">Authorization · environment identity · APK gate</text>
+    <text x="350" y="289">Package · source · Flutter · data · network · live ADB</text>
+    <text x="350" y="375">Browser controls · API roles, tenants and business logic</text>
+    <text x="350" y="461">Read-only server review · evidence · cleanup · retest</text></g>
+    <line x1="56" y1="495" x2="1144" y2="495" stroke="#273b56"/>
+    <text x="56" y="530" fill="#b6c6dc" font-size="16">Bar length = planned workstream count. This is not test coverage, a finding count, or a benchmark.</text>
+    <text x="56" y="556" fill="#7892b1" font-size="14">AI Security Testing Agent · vikrant-project</text>
+  </g>
+</svg>

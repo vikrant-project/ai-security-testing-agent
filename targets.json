@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "authorization": {
+    "confirmed": false,
+    "statement": "",
+    "expires_utc": null
+  },
+  "targets": [],
+  "credentials": [],
+  "settings": {
+    "output_root": "runs",
+    "request_budget": 300,
+    "requests_per_second": 1,
+    "concurrency": 1,
+    "request_timeout_seconds": 15,
+    "max_retries": 1,
+    "allow_apk_install": false,
+    "allow_instrumentation": false,
+    "allow_root_tests": false,
+    "allow_ssh_inspection": false,
+    "allow_synthetic_mutations": true
+  }
+}
